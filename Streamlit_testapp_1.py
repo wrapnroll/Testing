@@ -6,7 +6,7 @@
 
 import os
 import pandas as pd
-from matplotlib import pyplot as plt
+# from matplotlib import pyplot as plt
 from fbprophet import Prophet
 from fbprophet.plot import plot_plotly
 
