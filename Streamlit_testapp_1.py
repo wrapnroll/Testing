@@ -6,9 +6,9 @@
 
 import os
 import pandas as pd
-# from matplotlib import pyplot as plt
-# from fbprophet import Prophet
-# from fbprophet.plot import plot_plotly
+from matplotlib import pyplot as plt
+from fbprophet import Prophet
+from fbprophet.plot import plot_plotly
 
 import streamlit as st  # pylint: disable=import-error
 
